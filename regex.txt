@@ -1,0 +1,36 @@
+([Đ|\w].+)<br \/>Đang học
+id="(Ngay_sinh)".+value="(.*)"
+id="(ID_gioi_tinh)"[\S\s]+?selected["|>| >](.+)<\/option>
+value="(.+)" id="(TruongTHPT)"
+value="(.+)" id="(Nam_tot_nghiep)"
+id="(CMND)".+value="(.*)"
+id="(Dien_thoai_NR)".+value="(.*)"
+id="(Dienthoai_canhan)".+value="(.*)"
+id="(Email)".+value="(.*)"
+
+id="(ID_tinh_tt)"[\S\s]+?selected">(.+)<\/option>
+id="(ID_huyen_tt)"[\S\s]+?selected">(.+)<\/option>
+id="(ID_xa_tt)"[\S\s]+?selected">(.+)<\/option>
+
+id="(ID_tinh_ns)"[\S\s]+?selected">(.+)<\/option>
+id="(ID_huyen_ns)"[\S\s]+?selected">(.+)<\/option>
+id="(ID_xa_ns)"[\S\s]+?selected">(.+)<\/option>
+
+id="(Dia_chi_tt)".+value="(.*)"
+id="(Que_quan)".+value="(.*)"
+id="(Dia_chi_bao_tin)".+value="(.*)"
+id="(NoiO_hiennay)".+value="(.*)"
+
+id="(Ho_ten_cha)".+value="(.*)"
+id="(SDTBo)".+value="(.*)"
+id="(Namsinh_cha)".+value="(.*)"
+id="(Hoat_dong_XH_CT_cha)".+value="(.*)"
+id="(Ho_khau_TT_cha)".+value="(.*)"
+
+id="(Ho_ten_me)".+value="(.*)"
+id="(SDTMe)".+value="(.*)"
+id="(Namsinh_me)".+value="(.*)"
+id="(Hoat_dong_XH_CT_me)".+value="(.*)"
+id="(Ho_khau_TT_me)".+value="(.*)"
+
+id="(Ho_ten_nghe_nghiep_anh_em)".+value="(.*)"
